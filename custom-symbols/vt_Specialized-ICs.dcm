@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KSZ8997
+D IC SWITCH 10/100 8PORT 128QFP
+K 576-1043-ND
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ks8997.pdf
+$ENDCMP
+#
+#End Doc Library
