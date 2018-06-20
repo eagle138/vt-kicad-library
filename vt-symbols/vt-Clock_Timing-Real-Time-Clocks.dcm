@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS3231
+D I2C real time clock
+$ENDCMP
+#
+#End Doc Library

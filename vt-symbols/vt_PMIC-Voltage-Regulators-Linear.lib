@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3
+EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
 # ADP7156ARDZ-2.0-R7CT-ND
@@ -7,7 +7,14 @@ DEF ADP7156ARDZ-2.0-R7CT-ND U 0 40 Y Y 1 F N
 F0 "U" -400 350 50 H V L CNN
 F1 "ADP7156ARDZ-2.0-R7CT-ND" 550 -350 50 H V R CNN
 F2 "" 0 -450 50 H I C CNN
-F3 "" -50 50 50 H V C CNN
+F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADP7156.pdf" 0 600 20 H I L CNN
+F4 "ADP7156ARDZ-2.0-R7CT-ND" 0 650 20 H I L CNN "Digi-Key_PN"
+F5 "ADP7156ARDZ-2.0-R7" 0 700 20 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 0 800 20 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - Linear" 0 850 20 H I L CNN "Family"
+F8 "https://www.digikey.com/products/en?keywords=ADP7156ARDZ-2.0-R7CT-ND" 0 900 20 H I L CNN "DK_Detail_Page"
+F9 "Analog Devices Inc." 0 750 20 H I L CNN "Manufacturer"
+F10 "Active" 0 550 20 H I L CNN "Status"
 $FPLIST
  SOIC*-8
 $ENDFPLIST
@@ -31,7 +38,14 @@ DEF ADP7158ARDZ-3.3-R7 U 0 40 Y Y 1 F N
 F0 "U" -400 350 50 H V L CNN
 F1 "ADP7158ARDZ-3.3-R7" 450 -350 50 H V R CNN
 F2 "" 0 -450 50 H I C CNN
-F3 "" -50 50 50 H V C CNN
+F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADP7158.pdf" 0 800 20 H I L CNN
+F4 "ADP7158ARDZ-3.3-R7CT-ND" 0 500 20 H I L CNN "Digi-Key_PN"
+F5 "ADP7158ARDZ-3.3-R7" 0 550 20 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs) " 0 650 20 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - Linear" 0 700 20 H I L CNN "Family"
+F8 "https://www.digikey.com/products/en?keywords=ADP7158ARDZ-3.3-R7CT-ND" 0 750 20 H I L CNN "DK_Detail_Page"
+F9 "Analog Devices Inc." 0 600 20 H I L CNN "Manufacturer"
+F10 "Active" 0 450 20 H I L CNN "Status"
 DRAW
 S -400 300 400 -300 0 1 0 f
 X VOUT 1 500 200 100 L 50 50 1 1 w
@@ -52,7 +66,13 @@ DEF TPS7A3721DRVR U 0 40 Y Y 1 F N
 F0 "U" -150 200 60 H V C CNN
 F1 "TPS7A3721DRVR" 0 -200 60 H V C CNN
 F2 "" -250 -250 60 H I C CNN
-F3 "" -250 -250 60 H I C CNN
+F3 "http://www.ti.com/lit/ds/symlink/tps7a37.pdf" 0 300 20 H I L CNN
+F4 "296-40974-1-ND" 0 350 20 H I L CNN "Digi-Key_PN"
+F5 "TPS7A3721DRVR" 0 400 20 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 0 500 20 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - Linear" 0 550 20 H I L CNN "Family"
+F8 "Texas Instruments" 0 450 20 H I L CNN "Manufacturer"
+F9 "Active" 0 250 20 H I L CNN "Status"
 DRAW
 S 200 -150 -200 150 0 1 0 f
 X OUT 1 300 50 100 L 50 50 1 1 w

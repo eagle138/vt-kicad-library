@@ -1,8 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP JG0-0027NL
-D CONN MAGJACK 6PORT 1000 BASE-T
-K 553-1359-ND
+D 10/100/1000 Base-T RJ45 1x6 Tab-UP Integrated Connector Module  with LEDs and magnetics
+K RJ45, ethernet
 F http://productfinder.pulseeng.com/products/datasheets/J410.pdf
 $ENDCMP
 #
