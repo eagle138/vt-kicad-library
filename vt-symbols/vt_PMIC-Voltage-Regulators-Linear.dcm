@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADP7156ARDZ-2.0-R7CT-ND
+D IC REG LINEAR 2V 1.2A 8SOIC
+K ADP7156ARDZ-2.0-R7CT-ND
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADP7156.pdf
+$ENDCMP
+#
+$CMP ADP7158ARDZ-3.3-R7
+D IC REG LINEAR 3.3V 2A 8SOIC
+K ADP7158ARDZ-3.3-R7CT-ND
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADP7158.pdf
+$ENDCMP
+#
+$CMP TPS7A3721DRVR
+D IC REG LINEAR 2.1V 1A 6SON
+K 296-40974-1-ND
+F http://www.ti.com/lit/ds/symlink/tps7a37.pdf
+$ENDCMP
+#
+#End Doc Library

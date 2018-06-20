@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP pDDL900
+D Dual Frequency OEM Ethernet & Serial Digital Data Link
+K pDDL900
+F http://www.microhardcorp.com/pDDL900.php
+$ENDCMP
+#
+#End Doc Library
