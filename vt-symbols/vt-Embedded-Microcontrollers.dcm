@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CY8C4246AZI-L433
+D PSoC 4: PSoC 4200-L Family with USB, 48 pin QFP
+$ENDCMP
+#
+$CMP CY8C4247AZI-M485
+D PSoC 4: PSoC 4200M 64-LQFP
+$ENDCMP
+#
+#End Doc Library
