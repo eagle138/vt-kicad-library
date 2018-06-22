@@ -1,18 +1,3 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP KSZ8997
-D 8-Port 10/100 Integrated Switch with PHY and Frame Buffer
-K Ethernet
-F http://ww1.microchip.com/downloads/en/DeviceDoc/ks8997.pdf
-$ENDCMP
-#
-$CMP TPS2044B
-D Current-Limited, Power-Distribution Switch
-F http://www.ti.com/lit/ds/symlink/tps2051b.pdf
-$ENDCMP
-#
-$CMP TUSB2077A
-D 7-Port Hub for the Universal Serial Bus With Optional Serial EEPROM Interface
-$ENDCMP
-#
 #End Doc Library

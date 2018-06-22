@@ -1,0 +1,61 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# C_Tiny
+#
+DEF C_Tiny C 0 10 N N 1 F N
+F0 "C" 10 50 25 H V L CNN
+F1 "C_Tiny" 10 -50 25 H V L CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -40 -20 40 -20 N
+P 2 0 1 12 -40 20 40 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# mounting_hole
+#
+DEF mounting_hole MK 0 40 N N 1 F N
+F0 "MK" 0 200 50 H I C CNN
+F1 "mounting_hole" 0 125 50 H V C CNN
+F2 "" 0 -50 50 H I C CNN
+F3 "" 0 -50 50 H I C CNN
+$FPLIST
+ Mounting?Hole*
+ Hole*
+$ENDFPLIST
+DRAW
+C 0 0 50 0 1 50 N
+X 1 1 0 -150 100 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# solder_jumper
+#
+DEF solder_jumper J 0 40 Y N 1 F N
+F0 "J" 55 -90 50 H V C CNN
+F1 "solder_jumper" 0 -200 50 H V C CNN
+F2 "Connectors:GS3" 0 -275 50 H I C CNN
+F3 "" 20 0 50 V I C CNN
+$FPLIST
+ GS*
+$ENDFPLIST
+DRAW
+A -45 47 33 234 1566 0 1 0 N -15 60 -75 60
+A 45 47 33 234 1566 0 1 0 N 75 60 15 60
+S -100 50 -50 -50 0 1 0 F
+S -25 50 25 -50 0 1 0 F
+S 50 50 100 -50 0 1 0 F
+X G1 1 200 0 100 L 50 50 1 1 P
+X G2 2 0 -150 100 U 50 50 1 1 P
+X G3 3 -200 0 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
