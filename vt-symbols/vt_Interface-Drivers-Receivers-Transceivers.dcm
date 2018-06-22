@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SP3232EUCN-L
+D IC TXRX RS232 ESD 16SOIC Full 2/2 Transceiver TTL-RS232 16SOIC
+K 1016-1110-5-ND
+F https://www.exar.com/content/document.ashx?id=634
+$ENDCMP
+#
+#End Doc Library

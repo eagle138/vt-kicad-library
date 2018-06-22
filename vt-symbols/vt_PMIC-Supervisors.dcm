@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC4151_10MSOP
+D IC CURRENT MONITOR(12BIT)
+K LTC4151IMS-1#PBF-ND
+F http://www.linear.com/docs/26089
+$ENDCMP
+#
+#End Doc Library

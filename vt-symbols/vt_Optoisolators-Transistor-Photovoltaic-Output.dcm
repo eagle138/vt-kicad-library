@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MOCD207M
+D OPTOISO 2.5KV 2CH TRANS 8SOIC
+K MOCD207M-ND
+F http://www.onsemi.com/pub/Collateral/MOCD217M-D.PDF
+$ENDCMP
+#
+#End Doc Library
