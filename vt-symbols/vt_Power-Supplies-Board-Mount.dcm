@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP QPI-5LZ
+D FILTER 24V 14A ACTIVE EMI
+K 1102-1081-5-ND
+F http://cdn.vicorpower.com/documents/datasheets/Picor/ds_qpi5L.pdf
+$ENDCMP
+#
+$CMP V24C5C50BL
+D Isolated Module DC DC Converter 1 Output 5V 10A 18V - 36V Input
+K 1102-1293-ND
+F http://cdn.vicorpower.com/documents/datasheets/ds_24vin-micro-family.pdf
+$ENDCMP
+#
+#End Doc Library
