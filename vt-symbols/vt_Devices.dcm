@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 9602-I
+D Iridium Modem
+K Single Board Transceiver SBD connnectivityto Iridium Satellite Network
+F http://www.nalresearch.com/Info/General%20Description%20of%20Model%209602-I.pdf
+$ENDCMP
+#
 $CMP mounting_hole
 D Mounting Hole with connection
 K mounting hole

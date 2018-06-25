@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CSTCR6M00G53-R0
+D CER RES 6.0000MHZ 15PF SMD
+K 490-1204-1-ND
+F https://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p16e.ashx
+$ENDCMP
+#
+#End Doc Library

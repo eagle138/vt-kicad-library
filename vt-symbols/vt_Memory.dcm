@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M93C86
+D IC EEPROM 16K SPI 2MHZ 8SO
+K 497-8665-1-ND
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/00/a9/de/01/11/0d/4d/b1/CD00001142.pdf/files/CD00001142.pdf/jcr:content/translations/en.CD00001142.pdf
+$ENDCMP
+#
+#End Doc Library
