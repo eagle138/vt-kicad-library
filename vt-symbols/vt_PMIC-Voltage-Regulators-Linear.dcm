@@ -1,21 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP ADP7156ARDZ-2.0-R7CT-ND
-D 1.2 A, Ultralow Noise, High PSRR, RF Linear Regulator
-K LDO, voltage regulator
-F http://www.analog.com/media/en/technical-documentation/data-sheets/ADP7156.pdf
-$ENDCMP
-#
-$CMP ADP7158ARDZ-3.3-R7
-D 3.3V 2 A, Ultralow Noise, High PSRR, RF Linear Regulator
-K LDO, RF, voltage regulator
-F http://www.analog.com/media/en/technical-documentation/data-sheets/ADP7158.pdf
-$ENDCMP
-#
-$CMP TPS7A3721DRVR
-D 2.1V Fixed, High-Accuracy, 1-A, Low-Dropout Regulator With Reverse Current Protection
-K LDO, voltage regulator
-F http://www.ti.com/lit/ds/symlink/tps7a37.pdf
+$CMP MIC5353-3.3YMT-TR
+D IC REG LINEAR 3.3V 500MA 6TMLF
+K 576-3680-1-ND
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579989
 $ENDCMP
 #
 #End Doc Library

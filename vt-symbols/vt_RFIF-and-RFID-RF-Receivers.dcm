@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LINX-RXM-GPS-TM
+D GNSS RX MODULE TM SERIES
+K RXM-GNSS-TM-TCT-ND
+F https://linxtechnologies.com/wp/wp-content/uploads/rxm-gnss-tm.pdf
+$ENDCMP
+#
+#End Doc Library
