@@ -1,3 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP FT2232D-REEL
+D IC USB FS DUAL UART/FIFO 48-LQFP
+K 768-1010-1-ND
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232D.pdf
+$ENDCMP
+#
+$CMP FT2232H-56Q-TRAY
+D IC DUAL USB TO UART/FIFO 56VQFN
+K 768-1276-ND
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf
+$ENDCMP
+#
 #End Doc Library
