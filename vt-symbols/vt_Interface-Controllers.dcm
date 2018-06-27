@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP FT4232HL
+D IC USB HS QUAD UART/SYNC 64-LQFP
+K 768-1026-1-ND
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4232H.pdf
+$ENDCMP
+#
 #End Doc Library

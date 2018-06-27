@@ -12,4 +12,10 @@ K 576-3680-1-ND
 F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579989
 $ENDCMP
 #
+$CMP SPX1117M3x
+D IC REG LINEAR 3.3V 800MA SOT223
+K 1016-1848-1-ND
+F https://www.exar.com/content/document.ashx?id=694
+$ENDCMP
+#
 #End Doc Library

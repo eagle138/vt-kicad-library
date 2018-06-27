@@ -1,8 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP KC5032A25.0000CM0E00
-D Surface Mount CMOS Clock Oscillators 25.000MHZ with enable
-F https://global.kyocera.com/prdct/electro/product/pdf/kc5032a_cm_e.pdf
+$CMP KC5032A12.0000CMGE00
+D OSCILLATOR XO 12.000MHZ CMOS SMD
+K 1253-1285-1-ND
+F http://global.kyocera.com/prdct/electro/product/pdf/kc5032a_cm_e.pdf
+$ENDCMP
+#
+$CMP KC5032A48.0000CMGE00
+D OSCILLATOR XO 48.000MHZ CMOS SMD
+K 1253-1296-1-ND
+F http://global.kyocera.com/prdct/electro/product/pdf/kc5032a_cm_e.pdf
 $ENDCMP
 #
 #End Doc Library
