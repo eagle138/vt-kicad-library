@@ -1,5 +1,27 @@
-EESchema-LIBRARY Version 2.4
+EESchema-LIBRARY Version 2.3
 #encoding utf-8
+#
+# KC5032A12.0000CMGE00
+#
+DEF KC5032A12.0000CMGE00 X 0 40 Y Y 1 F N
+F0 "X" -200 250 50 H V L CNN
+F1 "KC5032A12.0000CMGE00" -200 -150 50 H V L CNN
+F2 "" -150 -50 60 H I C CNN
+F3 "http://global.kyocera.com/prdct/electro/product/pdf/kc5032a_cm_e.pdf" 0 500 20 H I L CNN
+F4 "1253-1285-1-ND" 0 400 20 H I L CNN "Digi-Key_PN"
+F5 "KC5032A12.0000CMGE00" 0 450 20 H I L CNN "MPN"
+F6 "Crystals, Oscillators, Resonators" 0 550 20 H I L CNN "Category"
+F7 "Oscillators" 0 600 20 H I L CNN "Family"
+F8 "https://www.digikey.com/product-detail/en/kyocera-international-inc-electronic-components/KC5032A12.0000CMGE00/1253-1285-1-ND/4867216" 0 650 20 H I L CNN "DK_Detail_Page"
+F9 "Kyocera International Inc. Electronic Components" 0 700 20 H I L CNN "Manufacturer"
+DRAW
+S -200 200 200 -100 0 1 0 f
+X ~INH 1 -300 0 100 R 50 50 1 1 I
+X GND 2 300 0 100 L 50 50 1 1 W
+X Out 3 300 100 100 L 50 50 1 1 O
+X VCC 4 -300 100 100 R 50 50 1 1 W
+ENDDRAW
+ENDDEF
 #
 # KC5032A25.0000CM0E00
 #
@@ -13,6 +35,28 @@ F5 "KC5032A25.0000CM0E00" 0 450 20 H I L CNN "MPN"
 F6 "Crystals, Oscillators, Resonators" 0 550 20 H I L CNN "Category"
 F7 "Oscillators" 0 600 20 H I L CNN "Family"
 F8 "https://www.digikey.com/products/en?keywords=1253-1043-1-ND" 0 650 20 H I L CNN "DK_Detail_Page"
+F9 "Kyocera International Inc. Electronic Components" 0 700 20 H I L CNN "Manufacturer"
+DRAW
+S -200 200 200 -100 0 1 0 f
+X ~INH 1 -300 0 100 R 50 50 1 1 I
+X GND 2 300 0 100 L 50 50 1 1 W
+X Out 3 300 100 100 L 50 50 1 1 O
+X VCC 4 -300 100 100 R 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# KC5032A48.0000CMGE00
+#
+DEF KC5032A48.0000CMGE00 X 0 40 Y Y 1 F N
+F0 "X" -200 250 50 H V L CNN
+F1 "KC5032A48.0000CMGE00" -200 -150 50 H V L CNN
+F2 "" -150 -50 60 H I C CNN
+F3 "http://global.kyocera.com/prdct/electro/product/pdf/kc5032a_cm_e.pdf" 0 500 20 H I L CNN
+F4 "1253-1296-1-ND" 0 400 20 H I L CNN "Digi-Key_PN"
+F5 "KC5032A48.0000CMGE00" 0 450 20 H I L CNN "MPN"
+F6 "Crystals, Oscillators, Resonators" 0 550 20 H I L CNN "Category"
+F7 "Oscillators" 0 600 20 H I L CNN "Family"
+F8 "https://www.digikey.com/product-detail/en/kyocera-international-inc-electronic-components/KC5032A48.0000CMGE00/1253-1296-1-ND/4867231" 0 650 20 H I L CNN "DK_Detail_Page"
 F9 "Kyocera International Inc. Electronic Components" 0 700 20 H I L CNN "Manufacturer"
 DRAW
 S -200 200 200 -100 0 1 0 f
