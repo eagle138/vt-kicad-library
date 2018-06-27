@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74HC595BRWNR
+D IC SHIFT REGISTER 8BIT 16X1QFN
+K 296-44070-1-ND
+F http://www.ti.com/lit/ds/symlink/sn74hc595b.pdf
+$ENDCMP
+#
+#End Doc Library
