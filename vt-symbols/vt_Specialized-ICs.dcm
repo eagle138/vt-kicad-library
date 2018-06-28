@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP TPS2044B
+D IC PWR DIST SWITCH QUAD 16-SOIC
+K 296-26909-1-ND
+F http://www.ti.com/lit/ds/symlink/tps2051b.pdf
+$ENDCMP
+#
 #End Doc Library
