@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MAX14528ETA+T
+D IC OVERVOLTAGE PROTECTOR 8TDFN
+K MAX14528ETA+TCT-ND
+F https://datasheets.maximintegrated.com/en/ds/MAX14527-MAX14528.pdf
+$ENDCMP
+#
 #End Doc Library
