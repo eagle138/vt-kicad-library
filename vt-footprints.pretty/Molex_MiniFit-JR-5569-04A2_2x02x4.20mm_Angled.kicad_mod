@@ -40,7 +40,7 @@
   (pad 3 thru_hole circle (at 0 5.5) (size 3 3) (drill 1.8) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 4.2 5.5) (size 3 3) (drill 1.8) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 2.1 -7.3) (size 3 3) (drill 3) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_MiniFit-JR-5569-04A2_2x02x4.20mm_Angled.wrl
+  (model /home/sgibson/Documents/workspace/pcbprojects/3DModels/1724480004.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
