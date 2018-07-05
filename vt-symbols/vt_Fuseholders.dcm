@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Blade_Fuse
+D FUSE HOLDER BLADE 500V 20A PCB
+K 36-3568-ND
+F http://www.keyelco.com/product-pdf.cfm?p=306
+$ENDCMP
+#
+#End Doc Library

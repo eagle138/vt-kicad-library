@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MicroFit_2x1
+D MICROFIT 3.0 SR RA TH CLIP 30AU
+K WM17581-ND
+F https://www.molex.com/pdm_docs/sd/436500205_sd.pdf
+$ENDCMP
+#
+$CMP MicroFit_2x1_Angled
+D MICROFIT 3.0 SR RA TH CLIP 30AU
+K WM17581-ND
+F https://www.molex.com/pdm_docs/sd/436500205_sd.pdf
+$ENDCMP
+#
+$CMP MiniFitJr_1x2_Angled
+D MINIFIT JR RA DRPEGS TIN GLOW WI
+K WM16206-ND
+F https://www.molex.com/pdm_docs/sd/1724480002_sd.pdf
+$ENDCMP
+#
+$CMP MiniFitJr_2x2_Angled
+D MINIFIT JR RA DRPEGS TIN GLOW WI
+K WM16295-ND
+F https://www.molex.com/pdm_docs/sd/1724480002_sd.pdf
+$ENDCMP
+#
+$CMP NanoFit_3x1_Angled
+D NANO-FIT RIGHT ANGLE HEADER, TH
+K WM16894-ND
+F https://www.molex.com/pdm_docs/sd/1053131102_sd.pdf
+$ENDCMP
+#
+#End Doc Library

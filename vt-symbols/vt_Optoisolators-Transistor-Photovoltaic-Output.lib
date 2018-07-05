@@ -8,6 +8,7 @@ F0 "U" -50 300 60 H V C CNN
 F1 "MOCD207M" 0 -300 60 H V C CNN
 F2 "Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm" 0 -500 60 H I C CNN
 F3 "http://www.onsemi.com/pub/Collateral/MOCD217M-D.PDF" 0 -400 60 H I C CNN
+F4 "MOCD207M-ND" 0 -600 60 H I C CNN "SPN"
 DRAW
 S -100 -250 100 250 0 1 0 f
 P 2 0 1 0 -80 -120 -20 -120 N

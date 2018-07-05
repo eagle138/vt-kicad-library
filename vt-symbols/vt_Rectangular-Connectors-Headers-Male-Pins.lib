@@ -1,0 +1,100 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# MicroFit_2x1
+#
+DEF MicroFit_2x1 J 0 40 Y Y 1 F N
+F0 "J" -150 250 60 H V C CNN
+F1 "MicroFit_2x1" 0 -250 60 H V C CNN
+F2 "vt-footprints:Molex_MicroFit_3.0_02x01_Angled_43650" 0 -550 60 H I C CNN
+F3 "https://www.molex.com/pdm_docs/sd/436500205_sd.pdf" 0 -350 60 H I C CNN
+F4 "WM17581-ND" 0 -450 60 H I C CNN "SPN"
+DRAW
+S 100 -50 175 50 0 1 0 N
+S 100 50 75 -50 0 1 0 N
+P 4 0 1 0 -200 -175 -150 -175 -150 -150 -200 -150 N
+P 4 0 1 0 -200 -25 -150 -25 -150 -75 -200 -75 N
+P 4 0 1 0 -200 25 -150 25 -150 75 -200 75 N
+P 4 0 1 0 -200 175 -150 175 -150 150 -200 150 N
+P 7 0 1 0 -200 -200 -200 200 100 200 200 100 200 -100 100 -200 -200 -200 f
+X ~ 1 -300 50 100 R 50 50 1 1 P
+X ~ 2 -300 -50 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# MicroFit_2x1_Angled
+#
+DEF ~MicroFit_2x1_Angled J 0 40 Y Y 1 F N
+F0 "J" -150 250 60 H V C CNN
+F1 "MicroFit_2x1_Angled" 0 -250 60 H I C CNN
+F2 "vt-footprints:Molex_MicroFit_3.0_02x01_Angled_43650" 0 -550 60 H I C CNN
+F3 "https://www.molex.com/pdm_docs/sd/436500205_sd.pdf" 0 -350 60 H I C CNN
+F4 "WM17581-ND" 0 -450 60 H I C CNN "SPN"
+DRAW
+S 100 -50 175 50 0 1 0 N
+S 100 50 75 -50 0 1 0 N
+P 4 0 1 0 -200 -175 -150 -175 -150 -150 -200 -150 N
+P 4 0 1 0 -200 -25 -150 -25 -150 -75 -200 -75 N
+P 4 0 1 0 -200 25 -150 25 -150 75 -200 75 N
+P 4 0 1 0 -200 175 -150 175 -150 150 -200 150 N
+P 7 0 1 0 -200 -200 -200 200 100 200 200 100 200 -100 100 -200 -200 -200 f
+X ~ 1 -300 50 100 R 50 50 1 1 P
+X ~ 2 -300 -50 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# MiniFitJr_1x2_Angled
+#
+DEF ~MiniFitJr_1x2_Angled J 0 40 Y Y 1 F N
+F0 "J" -150 200 60 H V C CNN
+F1 "MiniFitJr_1x2_Angled" 0 -100 60 H I C CNN
+F2 "Connectors_Molex:Molex_MiniFit-JR-5569-02A2_2x01x4.20mm_Angled" 0 -400 60 H I C CNN
+F3 "https://www.molex.com/pdm_docs/sd/1724480002_sd.pdf" 0 -200 60 H I C CNN
+F4 "WM16206-ND" 0 -300 60 H I C CNN "SPN"
+DRAW
+S -200 150 250 -50 0 1 0 f
+S 50 100 200 0 0 1 0 N
+S 100 100 50 0 0 1 0 N
+X ~ 1 -300 100 100 R 50 50 1 1 P
+X ~ 2 -300 0 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# MiniFitJr_2x2_Angled
+#
+DEF ~MiniFitJr_2x2_Angled J 0 40 Y Y 1 F N
+F0 "J" -150 250 60 H V C CNN
+F1 "MiniFitJr_2x2_Angled" 0 -250 60 H I C CNN
+F2 "Connectors_Molex:Molex_MiniFit-JR-5569-04A2_2x02x4.20mm_Angled" 0 -550 60 H I C CNN
+F3 "https://www.molex.com/pdm_docs/sd/1724480002_sd.pdf" 0 -350 60 H I C CNN
+F4 "WM16295-ND" 0 -450 60 H I C CNN "SPN"
+DRAW
+S -200 200 250 -200 0 1 0 f
+S 50 50 200 -50 0 1 0 N
+S 100 50 50 -50 0 1 0 N
+X ~ 1 -300 150 100 R 50 50 1 1 P
+X ~ 2 -300 50 100 R 50 50 1 1 P
+X ~ 3 -300 -50 100 R 50 50 1 1 P
+X ~ 4 -300 -150 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# NanoFit_3x1_Angled
+#
+DEF ~NanoFit_3x1_Angled J 0 40 Y Y 1 F N
+F0 "J" -150 200 60 H V C CNN
+F1 "NanoFit_3x1_Angled" 0 -200 60 H I C CNN
+F2 "vt-footprints:Molex_NanoFit_1x03x2.50mm_Angled" 0 -500 60 H I C CNN
+F3 "https://www.molex.com/pdm_docs/sd/1053131102_sd.pdf" 0 -300 60 H I C CNN
+F4 "WM16894-ND" 0 -400 60 H I C CNN "SPN"
+DRAW
+S -50 100 225 -100 0 1 0 f
+S -25 50 150 -50 0 1 0 N
+P 9 0 1 0 150 -100 150 -150 -200 -150 -200 150 150 150 150 100 -50 100 -50 -100 150 -100 f
+X ~ 1 -300 100 100 R 50 50 1 1 P
+X ~ 2 -300 0 100 R 50 50 1 1 P
+X ~ 3 -300 -100 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

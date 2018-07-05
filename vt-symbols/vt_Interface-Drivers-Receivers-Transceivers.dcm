@@ -12,10 +12,4 @@ K MAX13237EETE+TCT-ND
 F https://datasheets.maximintegrated.com/en/ds/MAX13234E-MAX13237E.pdf
 $ENDCMP
 #
-$CMP MAX3227EETE+
-D IC TXRX RS232 3MBPS 16TQFN
-K MAX13237EETE+TCT-ND
-F https://datasheets.maximintegrated.com/en/ds/MAX13234E-MAX13237E.pdf
-$ENDCMP
-#
 #End Doc Library
