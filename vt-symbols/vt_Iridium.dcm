@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 9602-I
+D Iridium Satellite Network - Single Board SBD Modem
+K 9602-I
+F http://www.nalresearch.com/Info/General%20Description%20of%20Model%209602-I.pdf
+$ENDCMP
+#
+#End Doc Library

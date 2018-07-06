@@ -6,4 +6,10 @@ K BTS70082EPAXUMA1CT-ND
 F https://www.infineon.com/dgdl/Infineon-BTS7008-2EPA-DS-v01_00-EN.pdf?fileId=5546d46258fc0bc101590212356876b1
 $ENDCMP
 #
+$CMP TPS2044BDR
+D IC PWR DIST SWITCH QUAD 16-SOIC
+K 296-26909-1-ND
+F http://www.ti.com/lit/ds/symlink/tps2051b.pdf
+$ENDCMP
+#
 #End Doc Library

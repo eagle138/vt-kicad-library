@@ -79,6 +79,23 @@ X ~ 4 -300 -150 100 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# NanoFit_2x1_Angled
+#
+DEF ~NanoFit_2x1_Angled J 0 40 Y Y 1 F N
+F0 "J" -150 150 60 H V C CNN
+F1 "NanoFit_2x1_Angled" 0 -200 60 H I C CNN
+F2 "Connectors_Molex:Molex_NanoFit_1x02x2.50mm_Angled" 0 -500 60 H I C CNN
+F3 "https://www.molex.com/pdm_docs/sd/1053131102_sd.pdf" 0 -300 60 H I C CNN
+F4 "WM16893-ND" 0 -400 60 H I C CNN "SPN"
+DRAW
+S -50 75 225 -75 0 1 0 f
+S -25 25 150 -25 0 1 0 N
+P 9 0 1 0 150 -75 150 -100 -200 -100 -200 100 150 100 150 75 -50 75 -50 -75 150 -75 f
+X ~ 1 -300 50 100 R 50 50 1 1 P
+X ~ 2 -300 -50 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # NanoFit_3x1_Angled
 #
 DEF ~NanoFit_3x1_Angled J 0 40 Y Y 1 F N
@@ -88,9 +105,9 @@ F2 "vt-footprints:Molex_NanoFit_1x03x2.50mm_Angled" 0 -500 60 H I C CNN
 F3 "https://www.molex.com/pdm_docs/sd/1053131102_sd.pdf" 0 -300 60 H I C CNN
 F4 "WM16894-ND" 0 -400 60 H I C CNN "SPN"
 DRAW
-S -50 100 225 -100 0 1 0 f
-S -25 50 150 -50 0 1 0 N
-P 9 0 1 0 150 -100 150 -150 -200 -150 -200 150 150 150 150 100 -50 100 -50 -100 150 -100 f
+S -50 75 225 -75 0 1 0 f
+S -25 25 150 -25 0 1 0 N
+P 9 0 1 0 150 -75 150 -150 -200 -150 -200 150 150 150 150 75 -50 75 -50 -75 150 -75 f
 X ~ 1 -300 100 100 R 50 50 1 1 P
 X ~ 2 -300 0 100 R 50 50 1 1 P
 X ~ 3 -300 -100 100 R 50 50 1 1 P
