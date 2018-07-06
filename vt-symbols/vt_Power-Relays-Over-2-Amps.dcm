@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADJH23124
+D RELAY GEN PURPOSE SPST 50A 24V
+K 255-5738-ND
+F https://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_djh.pdf
+$ENDCMP
+#
+#End Doc Library
