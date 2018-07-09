@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# SMA_Angled
+#
+DEF ~SMA_Angled J 0 40 Y N 1 F N
+F0 "J" 10 120 50 H V C CNN
+F1 "SMA_Angled" 115 0 50 V I C CNN
+F2 "Connectors:SMA_THT_Jack_Straight" 0 -450 50 H I C CNN
+F3 "https://linxtechnologies.com/wp/wp-content/uploads/consma002.pdf" 0 -250 50 H I C CNN
+F4 "CONSMA002-ND" 0 -350 60 H I C CNN "SPN"
+$FPLIST
+ *BNC*
+ *SMA*
+ *SMB*
+ *SMC*
+ *Cinch*
+$ENDFPLIST
+DRAW
+A -2 0 71 1636 0 0 1 10 N -70 20 70 0
+A -1 0 71 0 -1638 0 1 10 N 70 0 -70 -20
+C 0 0 20 0 1 8 N
+P 2 0 1 0 -50 0 -20 0 N
+P 2 0 1 0 0 -100 0 -70 N
+X In 1 -150 0 100 R 50 50 1 1 P
+X Ext 2 0 -200 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

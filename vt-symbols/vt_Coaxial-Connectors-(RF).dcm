@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SMA_Angled
+D CONN SMA RCPT R/A 50 OHM PCB
+K CONSMA002-ND
+F https://linxtechnologies.com/wp/wp-content/uploads/consma002.pdf
+$ENDCMP
+#
+#End Doc Library
