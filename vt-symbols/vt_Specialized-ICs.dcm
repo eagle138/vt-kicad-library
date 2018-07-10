@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP KSZ8997
+D IC 10/100 INTEG SWITCH 128PQFP
+K 576-1043-ND
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en581523
+$ENDCMP
+#
 #End Doc Library
