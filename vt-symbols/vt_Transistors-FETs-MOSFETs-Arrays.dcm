@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMN63D8LDW
+D MOSFET 2N-CH 30V 0.22A SOT363
+K DMN63D8LDW-7CT-ND
+F https://www.diodes.com/assets/Datasheets/DMN63D8LDW.pdf
+$ENDCMP
+#
+#End Doc Library
