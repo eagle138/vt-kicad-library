@@ -5,4 +5,10 @@ D LED RGB, Common Cathode
 K led rgb diode
 $ENDCMP
 #
+$CMP RGB_LED_OVSPRGBCR4
+D LED RGB CLEAR 6SMD
+K 365-1393-1-ND
+F http://www.ttelectronics.com/sites/default/files/download-files/OVSPRGBCR4-Issue%20E.pdf
+$ENDCMP
+#
 #End Doc Library
