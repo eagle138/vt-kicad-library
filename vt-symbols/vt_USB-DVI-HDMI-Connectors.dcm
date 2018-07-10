@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 10118194-0001LF
+D CONN USB MICRO B RECPT SMT R/A
+K 609-4618-1-ND 
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10118194.pdf
+$ENDCMP
+#
 $CMP USB_A
 D CONN RCPT MICRO USB R/A SMD
 K WM1399CT-ND
