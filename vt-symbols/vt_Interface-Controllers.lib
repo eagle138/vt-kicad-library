@@ -71,7 +71,7 @@ F2 "digikey-footprints:LQFP-64_10x10mm" 250 950 50 H I C CNN
 F3 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4232H.pdf" -150 800 50 H I C CNN
 F4 "768-1026-1-ND" -100 -3550 50 H I C CNN "SPN"
 DRAW
-S -500 200 300 -3400 1 1 10 f
+S -500 200 300 -3400 1 1 0 f
 X OSCI 2 -600 -1650 100 R 50 50 1 1 I
 X OSCO 3 -600 -1750 100 R 50 50 1 1 O
 X REF 6 -600 -2650 100 R 50 50 1 1 B
@@ -116,7 +116,7 @@ X ADBUS3 19 450 -200 150 L 50 50 1 1 B
 X BDBUS3 29 450 -1100 150 L 50 50 1 1 B
 X CDBUS1 39 450 -1800 150 L 50 50 1 1 B
 X DDBUS7 59 450 -3300 150 L 50 50 1 1 B
-S -350 -700 250 700 2 1 10 f
+S -350 -700 250 700 2 1 0 f
 X GND 1 350 -500 100 L 50 50 2 1 W
 X VPHY 4 -450 -100 100 R 50 50 2 1 W
 X GND 5 350 -400 100 L 50 50 2 1 W
@@ -140,20 +140,14 @@ X REGOUT 49 -450 -300 100 R 50 50 2 1 w
 ENDDRAW
 ENDDEF
 #
-# TUSB2077A
+# TUSB2077APTR
 #
-DEF TUSB2077A U 0 40 Y Y 1 F N
+DEF TUSB2077APTR U 0 40 Y Y 1 F N
 F0 "U" -450 1450 50 H V C CNN
-F1 "TUSB2077A" -50 -1600 50 H V C CNN
-F2 "" 100 3150 50 H I L CNN
-F3 "http://www.ti.com/lit/ds/symlink/tusb2077a.pdf" 50 2300 20 H I L CNN
-F4 "296-37871-1-ND" 50 1950 20 H I L CNN "Digi-Key_PN"
-F5 "TUSB2077APTR" 50 2000 20 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 50 2050 20 H I L CNN "Category"
-F7 "Interface - Controllers" 50 2100 20 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tusb2077a.pdf" 50 2150 20 H I L CNN "DK_Datasheet_Link"
-F9 "https://www.digikey.si/product-detail/en/texas-instruments/TUSB2077APTR/296-37871-1-ND/4878718" 50 2200 20 H I L CNN "DK_Detail_Page"
-F10 "Texas Instruments" 50 2250 20 H I L CNN "Manufacturer"
+F1 "TUSB2077APTR" -50 -1600 50 H V C CNN
+F2 "Housings_QFP:LQFP-48_7x7mm_Pitch0.5mm" 100 3150 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/tusb2077a.pdf" -350 -1750 20 H I L CNN
+F4 "296-37871-1-ND" -150 -1700 20 H I L CNN "SPN"
 DRAW
 S -550 1400 500 -1550 0 1 0 f
 X SUSPND 1 600 -800 100 L 50 50 1 1 O
