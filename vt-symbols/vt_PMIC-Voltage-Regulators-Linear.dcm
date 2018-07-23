@@ -6,6 +6,12 @@ K IFX27001TFV50ATMA1CT-ND
 F https://www.infineon.com/dgdl/Infineon-IFX27001-DS-v01_01-EN.pdf?fileId=5546d4626176435901619e0eecba517a
 $ENDCMP
 #
+$CMP L78L24ACUTR
+D Positive 100mA 30V Linear Regulator, Fixed Output 5V, SOT-89
+K Voltage Regulator 100mA Positive
+F http://www.fairchildsemi.com/ds/LM/LM78L05A.pdf
+$ENDCMP
+#
 $CMP LM9036MX-5.0/NOPB
 D IC REG LINEAR 5V 50MA 8SOIC
 K 296-35319-1-ND
