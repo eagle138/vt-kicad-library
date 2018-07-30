@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LVC_2-Input-NAND
+D IC GATE NAND SCHMITT 2CH US8
+K 296-18802-1-ND
+F http://www.ti.com/lit/ds/symlink/sn74lvc2g132.pdf
+$ENDCMP
+#
+#End Doc Library
