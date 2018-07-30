@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SN74LVC2G08_2-Input-AND
+D IC GATE AND 2CH 2-INP 8VSSOP
+K 1727-3560-1-ND
+F https://assets.nexperia.com/documents/data-sheet/74LVC2G08.pdf
+$ENDCMP
+#
 $CMP SN74LVC_2-Input-NAND
 D IC GATE NAND SCHMITT 2CH US8
 K 296-18802-1-ND
