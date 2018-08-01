@@ -6,4 +6,16 @@ K AL8861Y-13DICT-ND
 F https://www.diodes.com/assets/Datasheets/AL8861.pdf
 $ENDCMP
 #
+$CMP MIC3223
+D IC LED DRIVER RGLTR DIM 16TSSOP
+K 576-3662-5-ND
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en581351
+$ENDCMP
+#
+$CMP PAM2841
+D IC LED DRVR RGLTR DIM 1.5A 8DFN
+K PAM2841GRDICT-ND
+F https://www.diodes.com/assets/Datasheets/PAM2841.pdf
+$ENDCMP
+#
 #End Doc Library
