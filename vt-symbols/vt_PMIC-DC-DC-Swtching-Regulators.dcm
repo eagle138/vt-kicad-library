@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP lm2678
+D IC REG BUCK 5V 5A 14VSON
+K LM2678SD-5.0/NOPBCT-ND
+F http://www.ti.com/lit/ds/symlink/lm2678.pdf
+$ENDCMP
+#
+#End Doc Library
