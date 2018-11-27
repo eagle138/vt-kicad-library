@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP D_Schottky_3pin
+D Schottky diode
+K diode Schottky
+F ~
+$ENDCMP
+#
 $CMP mounting_hole
 D Mounting Hole with connection
 K mounting hole
