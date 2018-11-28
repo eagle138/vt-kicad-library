@@ -6,4 +6,9 @@ K 576-1043-ND
 F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en581523
 $ENDCMP
 #
+$CMP TC622
+D Low Cost Single Trip Point Temperature Sensor
+K thermostat, temperature
+$ENDCMP
+#
 #End Doc Library
