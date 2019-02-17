@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# MDSM-10R-20-25
+#
+DEF MDSM-10R-20-25 S 0 40 Y Y 1 F N
+F0 "S" 0 100 50 H V C CNN
+F1 "MDSM-10R-20-25" 0 -100 50 H V C CNN
+F2 "vt-footprints:MDSM-10R-20-25" 0 -275 50 H I C CNN
+F3 "http://www.littelfuse.com/~/media/electronics/datasheets/reed_switches/littelfuse_reed_switches_mdsm_10_datasheet.pdf.pdf" 0 -200 50 H I C CNN
+F4 "HE564CT-ND" 0 -350 50 H I C CNN "SPN"
+DRAW
+A -100 0 50 901 -901 0 1 0 N -100 50 -100 -50
+A 100 0 50 -899 899 0 1 0 N 100 -50 100 50
+P 2 0 1 0 -100 -50 100 -50 N
+P 2 0 1 0 -50 0 -150 0 N
+P 2 0 1 0 -50 0 50 25 N
+P 2 0 1 0 50 0 150 0 N
+P 2 0 1 0 100 50 -100 50 N
+X ~ 1 -250 0 100 R 50 50 1 1 P
+X ~ 2 250 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
