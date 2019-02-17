@@ -12,7 +12,7 @@ K Voltage Regulator 100mA Positive
 F http://www.fairchildsemi.com/ds/LM/LM78L05A.pdf
 $ENDCMP
 #
-$CMP LM9036MX-5.0/NOPB
+$CMP LM9036MX-5.0_NOPB
 D IC REG LINEAR 5V 50MA 8SOIC
 K 296-35319-1-ND
 F http://www.ti.com/lit/ds/symlink/lm9036.pdf
@@ -24,7 +24,7 @@ K 576-3680-1-ND
 F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579989
 $ENDCMP
 #
-$CMP SPX1117M3-L-3-3/TR
+$CMP SPX1117M3-L-3-3_TR
 D IC REG LINEAR 3.3V 800MA SOT223
 K 1016-1848-1-ND
 F https://www.exar.com/content/document.ashx?id=694

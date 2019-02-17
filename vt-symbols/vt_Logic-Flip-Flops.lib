@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3
+EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
 # TC7W74FU
@@ -27,7 +27,7 @@ ENDDEF
 DEF TC7W74FU,LF U 0 40 Y Y 1 F N
 F0 "U" -250 -250 60 H V C CNN
 F1 "TC7W74FU,LF" 350 -250 60 H V C CNN
-F2 "digikey-footprints:MSOP-8_W2.80mm" 0 -600 60 H I C CNN
+F2 "Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP2.54x2.8mm" 0 -600 60 H I C CNN
 F3 "http://toshiba.semicon-storage.com/info/docget.jsp?did=20219&prodName=TC7W74FK" 0 -500 60 H I C CNN
 F4 "TC7W74FULFCT-ND" 0 -400 60 H I C CNN "SPN"
 DRAW

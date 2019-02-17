@@ -1,4 +1,4 @@
-(module pDDL900_80_pin_Housing (layer F.Cu) (tedit 5B21287F)
+(module pDDL900_80_pin_Housing (layer F.Cu) (tedit 5C5CD63C)
   (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -133,4 +133,14 @@
   (pad "" smd rect (at 4.975 -9.53) (size 6.15 1.5) (layers F.Cu F.Paste F.Mask))
   (pad "" thru_hole circle (at -16.97 14.985) (size 2 2) (drill 1.7) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at -16.97 -14.985) (size 2 2) (drill 1.7) (layers *.Cu *.Mask))
+  (model ${KIPRJMOD}/Pico_OEM_SOCKET.step
+    (offset (xyz 19.25 -16 -1))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 180 0 180))
+  )
+  (model "${KIPRJMOD}/pDDL OEM.step"
+    (offset (xyz 0 0 2))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 180))
+  )
 )

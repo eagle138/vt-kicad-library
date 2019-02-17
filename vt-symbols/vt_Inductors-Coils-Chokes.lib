@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# MSS1260-223ML
+#
+DEF MSS1260-223ML L 0 10 N N 1 F N
+F0 "L" 30 40 50 H V L CNN
+F1 "MSS1260-223ML" 30 -40 50 H V L CNN
+F2 "vt-footprints:MSS1260-223ML" 0 -400 50 H I C CNN
+F3 "https://www.mouser.com/datasheet/2/597/mss1260-270744.pdf" 0 -300 50 H I C CNN
+$FPLIST
+ Choke_*
+ *Coil*
+ Inductor_*
+ L_*
+$ENDFPLIST
+DRAW
+A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
+A 0 -20 20 -899 899 0 1 0 N 0 -40 0 0
+A 0 20 20 -899 899 0 1 0 N 0 0 0 40
+A 0 60 20 -899 899 0 1 0 N 0 40 0 80
+X ~ 1 0 100 20 D 50 50 1 1 P
+X ~ 2 0 -100 20 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
