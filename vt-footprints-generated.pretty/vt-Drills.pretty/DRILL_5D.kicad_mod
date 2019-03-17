@@ -1,6 +1,6 @@
-(module DRILL_5D (layer F.Cu) (tedit 5B1D2CB5)
+(module DRILL_5D (layer F.Cu) (tedit 5C8EAB06)
   (at 0 0)
-  (descr "Drill for an M0.5 size screw")
+  (descr "Standard clearance drill for an M0.5 size screw")
   (tags "PTH drill")
   (fp_text reference REF** (at 1.731 0.0 90.0) (layer F.SilkS) (effects (font (size 1.0 1.0) (thickness 0.1))))
   (fp_text value VAL** (at -1.731 0.0 90.0) (layer F.SilkS) (effects (font (size 1.0 1.0) (thickness 0.1))))
