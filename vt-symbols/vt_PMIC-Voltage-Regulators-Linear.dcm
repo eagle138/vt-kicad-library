@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BDxxIC0WEFJ-fixed
+D  LDO regulators with an output current of 1.0A
+F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/bdxxic0w-e.pdf
+$ENDCMP
+#
 $CMP IFX27001TFV50ATMA1
 D IC REG LINEAR 5V 1A TO252-3
 K IFX27001TFV50ATMA1CT-ND

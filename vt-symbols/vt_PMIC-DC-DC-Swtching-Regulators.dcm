@@ -6,6 +6,11 @@ K power over ethernet
 F https://silvertel.com/images/datasheets/Ag9900M-datasheet-ultra-miniature-isolated-Power-over-Ethernet-POE-module.pdf
 $ENDCMP
 #
+$CMP BP5293-xx
+D 3 terminal Buck type DC/DC Converter
+F http://rohmfs.rohm.com/en/products/databook/datasheet/module/power_module/dcdc_converter/bp5293-xx.pdf
+$ENDCMP
+#
 $CMP lm2678
 D IC REG BUCK 5V 5A 14VSON
 K LM2678SD-5.0/NOPBCT-ND
