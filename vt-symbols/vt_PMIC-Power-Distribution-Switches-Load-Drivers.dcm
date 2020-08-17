@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BD622xxx
+D DC Brush Motor Driver
+F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/motor/dc/bd622x-e.pdf
+$ENDCMP
+#
 $CMP BTS70082EPAXUMA1
 D IC HIGH SIDE PWR SWITCH 14TSOP
 K BTS70082EPAXUMA1CT-ND
