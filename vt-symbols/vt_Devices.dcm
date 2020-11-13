@@ -18,6 +18,12 @@ K inductor choke coil reactor magnetic coupled
 F ~
 $ENDCMP
 #
+$CMP R_POT_SW
+D Potentiometer
+K resistor variable switch
+F ~
+$ENDCMP
+#
 $CMP mounting_hole
 D Mounting Hole with connection
 K mounting hole
